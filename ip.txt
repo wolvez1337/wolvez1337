@@ -1,0 +1,35 @@
+
+IP: 195.211.23.206
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 176.59.211.186
+ User-Agent: Mozilla/5.0 (Linux; Android 10; RMX1927) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+IP: 95.142.196.133
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 195.211.23.207
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 188.66.34.135
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; TECNO LA7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+IP: 188.66.34.135
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; TECNO LA7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+IP: 109.194.137.69
+ User-Agent: Mozilla/5.0 (Linux; Android 5.0.2; SM-A300F Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.0 Chrome/38.0.2125.102 Mobile Safari/537.36
+IP: 188.43.69.7
+ User-Agent: Mozilla/5.0 (Linux; Android 10; HRY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
+IP: 195.211.23.211
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 195.211.23.211
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 188.66.34.135
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; TECNO LA7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+IP: 188.66.34.135
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; TECNO LA7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+IP: 195.211.23.207
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 195.211.23.207
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 195.211.23.207
+ User-Agent: Mozilla/5.0 (compatible; vkShare; +http://vk.com/dev/Share)
+IP: 188.66.34.135
+ User-Agent: Mozilla/5.0 (Linux; Android 8.1.0; TECNO LA7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.82 Mobile Safari/537.36
+IP: 90.150.83.6
+ User-Agent: Mozilla/5.0 (Linux; Android 10; HRY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
